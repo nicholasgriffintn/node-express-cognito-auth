@@ -118,7 +118,7 @@ exports.Login = function (body, callback) {
                 // attributesData: object with key as attribute name and value that the user has given.
                 console.log(userAttributes, requiredAttributes)
 
-                let newPassword = 'Filler098!';
+                let newPassword = 'Password123!';
 
                 var attributesData = {
                     name: 'Nicholas Griffin',
