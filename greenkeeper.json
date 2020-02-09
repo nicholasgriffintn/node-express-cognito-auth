@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "API/package.json"
+      ]
+    }
+  }
+}
